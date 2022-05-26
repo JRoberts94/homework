@@ -53,9 +53,9 @@ THEN I find a concise, descriptive title
 -CSS
 -WAVE evaluation tool
 
-* [Link to deployed Website] (jroberts94.github.io/horiseon-homework/)
-* [Link to github Repository] (https://github.com/JRoberts94/homework)
-![Screenshot] (/assets/images/01-html-css-git-homework-demo)
+* [Link to deployed Website](https://jroberts94.github.io/horiseon-homework/)
+* [Link to github Repository](https://github.com/JRoberts94/homework)
+* ![Screenshot](/assets/images/01-html-css-git-homework-demo)
 
 
 
